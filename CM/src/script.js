@@ -47,7 +47,7 @@ gltfLoader.setDRACOLoader(dracoLoader)
 /**
  * Textures
  */
-const bakedTexture = textureLoader.load('0912.jpg')
+const bakedTexture = textureLoader.load('09121.jpg')
 bakedTexture.flipY = false
 const baked2Texture = textureLoader.load('111.jpg')
 baked2Texture.flipY = false
